@@ -1,0 +1,8 @@
+newmtl weapon_kb_m4_wm_gunpaint_right_camo
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd _images\\weapon_kb_m4_c_weapon_kb_m4_sg_packed_cs.dds
+map_bump _images\\blank_n.dds
+map_Ks _images\\blank_sg.dds

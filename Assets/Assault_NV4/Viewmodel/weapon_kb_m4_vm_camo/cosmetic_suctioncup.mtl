@@ -1,0 +1,7 @@
+newmtl cosmetic_suctioncup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd _images\\cosmetic_suctioncup_c_cosmetic_suctioncup_sg_packed_cs.dds
+map_bump _images\\cosmetic_suctioncup_n_5edc596d_packed_nog.dds
